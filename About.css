@@ -1,0 +1,38 @@
+body{
+            
+    background-color: rgb(58, 59, 59);
+} 
+.nav-link{
+padding: 15px;
+margin-left: 40px;
+font-weight: bold;
+}
+.position{
+ position: fixed;
+ width: 100%;
+ 
+}
+.heading{
+    margin-top: 25%;
+    margin-right: 10%;
+    color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+    color: orange;
+    font-style: italic;
+}
+p{
+    color: whitesmoke;
+}
+span{
+    color: whitesmoke;
+}
+
+
+span:hover{
+    color: orange;
+    cursor: pointer;
+
+}

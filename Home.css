@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(15, 14, 15);
+     }
+     
+      .nav-link{
+      padding: 15px;
+      margin-left: 40px;
+      font-weight: bold;
+      
+    } 
+   
+    .position{
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    }
+    
+    .image1{
+    
+    margin-top: 10%;
+    height: 400px;
+    width: 300px;
+    
+    }
+    
+    .heading{
+    font-size: 65px;
+    margin-top: 40%;
+    color: aliceblue;
+    margin-left: 50px;
+    }  
+    #btn{
+    padding: 7px;
+    line-height: 15px;
+    margin-left: 60px;
+    font-weight: bold;
+    width: 150px;
+    background-color: orange;
+    font-size: large;
+    
+    }
+    .image2{
+      height: 400px; width: 300px;
+      margin-top: 10%;
+    }
+    

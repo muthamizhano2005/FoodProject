@@ -1,0 +1,46 @@
+.nav-link{
+    padding: 15px;
+    margin-left: 40px;
+    font-weight: bold;
+   }
+   .position{
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    }
+    button{
+        width: 20%;
+    }
+    .heading{
+        float: right;
+    }
+    input{
+        width: 300px;
+    }
+    
+    span{
+        color:black;
+        
+    }
+    h1{
+        margin-left: 17%;
+        font-style: italic;
+        color: brown;
+    }
+    
+    span:hover{
+        color: orange;
+        cursor: pointer;
+    
+    }
+    .container{
+       margin-left: 15%; 
+    }
+    footer{
+        margin-right: 50px;
+    }
+
+    
+
+    
+   
